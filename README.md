@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manoj
-- 👀 I’m interested in Software Design, Architecture, Machine Learning, AWS, Java, Kotlin and many more.
+- 👀 I’m interested in Software Design, Architecture, Distributed Systems, Machine Learning, AWS, Java, Kotlin and React.
 - 🌱 I’m currently learning Cloud Native applications
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on application, library development
 - 📫 How to reach me ...
 
 <!---
